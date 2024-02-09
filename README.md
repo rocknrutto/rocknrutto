@@ -1,5 +1,5 @@
 <h1 align="center">Recep Unluturk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Earth</h3>
 
 - ⚡ Fun fact **I think i'm only human**
 
